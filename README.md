@@ -4,7 +4,7 @@
 The first free Minecraft Alt Generator!
 
 ```
-Brought to you by Aidan with love 💝
+Brought to you by Aidan #fdpratted
 ```
 
 
